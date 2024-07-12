@@ -25,39 +25,5 @@ mongoURI='your link to mlab'
 SECRET='yoursecret'
 ```
 
-### Setup
-
-```bash
-$ git clone or download
-```
-
-Go to project direction
-
-Install dependencies for server
-
-```bash
-$ npm install
-
-```
-
-Install dependencies for client
-
-```bash
-$ cd client
-$ npm install
-
-```
-Run server (nodemon)
-
-```bash
-$ nodemon
-
-```
-
-Run server (client)
-
-```bash
-$ cd client
-$ npm start
 
 ```
